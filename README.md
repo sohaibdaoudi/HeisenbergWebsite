@@ -9,7 +9,7 @@ This is a fun interactive web project inspired by the iconic "Say My Name" scene
 - Responsive design for better user experience across devices.
 
 ## Demo
-You can try the live demo of this project at [Say My Name - Live Demo](https://sohaibdaoudi.github.io/loginpage/).
+You can try the live demo of this project at [Say My Name - Live Demo]([https://sohaibdaoudi.github.io/loginpage/](https://sohaibdaoudi.github.io/HeisenbergWebsite/).
 
 ## Technologies Used
 - **HTML**: The structure of the webpage.
